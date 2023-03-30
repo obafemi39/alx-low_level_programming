@@ -1,0 +1,1 @@
+Linked list were created to improve on what we have on arrays
